@@ -1,0 +1,22 @@
+[
+  {
+    "Lugar": "Pátzcuaro",
+    "Descripcion": "Tierra purépecha, considerado pueblo mágico del estado de Michoacán. Las cornudas, es comida tópica para paladear, así como los uchepos y sopa tarasca, esto es algo de sus comidas clásicas. En chocolates Joaquinita, encontrarás deliciosas tabletas hechas a mano por una familia desde 1898."
+  },
+  {
+    "Lugar": "Bernal",
+    "Descripcion": "Villa colonial al este de Querétaro. El castillo y la capilla de ánimas son imperdibles. Para conocer más las oficinas de turismo ofrecen visitas guiadas. Enchiladas serranas, nopales santos, la barbacoa de borrego son deliciosos y las debes probar durante tu paso por este pueblo mágico. El equinoccio de primavera y la fiesta de la Santa Cruz son festividades tradicionales que en su momento tienes que vivirlas."
+  },
+  {
+    "Lugar": "Tequila",
+    "Descripcion": "Pueblo rodeado de la planta de dioses, el maguey. Con el cual se produce el mexicanísimo Tequila. Aquí los grandes exponentes de esta rasposa bebida cuentan con sus casas productoras. Ya sea por tu cuenta o en tour, el gran atractivo además de su plaza y mercados es un recorrido por Casa Cuervo, o cualquiera de sus fabricantes tequileros."
+  },
+  {
+    "Lugar": "San Miguel de Allende",
+    "Descripcion": "Nombrada Ciudad Patrimonio por la Unesco, San Miguel de Allende es un lugar lleno de tradición con su arquitectura colonial. Lo mejor es que puedes andar por la ciudad caminando, no necesitas de un carro para poder explorarla.  Vista la parroquia de San Miguel de Arcángel, el ex Palacio Municipal y el Templo de Nuestra Señora de la Salud, entre otras cosas. El descansar aquí es algo de ensueño, pues cuenta con hoteles boutique, pintorescos y bellamente decorados."
+  },
+  {
+    "Lugar": "San Cristóbal de las Casas",
+    "Descripcion": "Su pasado colonial y sus raíces indígenas hacen de San Cristóbal de las Casas un punto de partida ideal para conocer el estado de Chiapas. Prueba su delicioso café, su irresistible chocolate y todas las delicias gastronómicas que distinguen a este estado del sur de México. Si te hospedas en Sancris, como la llaman de cariño sus habitantes, podrás ir fácilmente a lugares como el cañón del Sumidero, las cascadas del Chiflon, los lagos de Montebello e incluso Palenque y Agua Azul, si tienes tiempo de hacerlo."
+  }
+]

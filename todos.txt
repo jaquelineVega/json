@@ -1,0 +1,118 @@
+[
+  {
+    "Lugar": "Isla Mujeres",
+    "Descripcion": "Hay quienes catalogan a esta playa como la más hermosa de México y no les falta razón. Ya de por sí, la isla que le sirve de asiento es una belleza situada a menos de 15 kilómetros de Cancún, rodeada por el embrujo de su origen. Cuenta la leyenda que cuando los españoles llegaron al lugar encontraron tantas figuras femeninas, que lo bautizaron como Isla Mujeres."
+  },
+  {
+    "Lugar": "Playa del amor, Baja California Sur",
+    "Descripcion": "En la punta austral de la península de Baja California, las aguas del Pacífico inmenso y del Mar de Cortés se miran en Cabo San Lucas como dos enamorados que se evaden. Quizá por eso, la Playa de los Enamorados es la más apreciada por los amantes de esta ciudad sudcaliforniana.  Es un lugar hermoso en el que el mar es como un retrato azul entre las enormes rocas de caliza que hacen de marco. Su peculiar formación llamada El Arco fue esculpida por el viento y el oleaje. Entre los meses de diciembre y marzo es posible ver ballenas y ballenatos."
+  },
+  {
+    "Lugar": "Bahis organo y Maguey, Oaxaca",
+    "Descripcion": "Estas dos playas de Huatulco están tan cerca, que pueden disfrutarse en una sola jornada. Son dos pequeñas y fraternales ensenadas, con sus coincidencias y diferencias. Las dos son de nítidas aguas y de blanca arena, pero Playa Maguey es de fácil acceso, mientras que llegar a Organo es más difícil"
+  },
+  {
+    "Lugar": "Playa paraíso, Cozumel, Quintana Roo",
+    "Descripcion": "Cozumel es la segunda isla más poblada de México, contando con todas las facilidades necesarias para un turismo de primer nivel, incluyendo aeropuerto internacional"
+  },
+  {
+    "Lugar": "Islas Revillagigedo, Colima",
+    "Descripcion": "Estas islas colimeñas en el Pacífico,llamadas las Galápagos Mexicanas, constituyen un exclusivo destino, especialmente para los ecoturistas y para los amantes del buceo en territorios casi vírgenes. Por su riqueza biológica, constituyen área Natural Protegida y Reserva de Biósfera."
+  },
+  {
+    "Lugar": "Punta Nizuc, Quintana roo",
+    "Descripcion": "Esta punta geográfica es uno de los lugares más frecuentados de Cancún, principalmente por sus magníficos arrecifes coralinos, que constituyen un nirvana para los buceadores y un excelente lugar para observar la biodiversidad marina."
+  },
+  {
+    "Lugar": "Mazunte, Oaxaca",
+    "Descripcion": "El mazunte es un cangrejo azul que vive un este lugar oaxaqueño, pero la especie más mimada de este Pueblo Mágico mexicano es la tortuga. Mazunte es la sede principal del Centro Mexicano de la Tortuga, lugar desde el que se desarrolla un admirable trabajo para preservar las especies de quelonios del Pacífico."
+  },
+  {
+    "Lugar": "Isla de los lobos, Veracruz",
+    "Descripcion": "A 75 minutos de la costa continental veracruzana está esta fantástica isla, de playas cristalinas ideales para el buceo, por la barrera de arrecifes coralinos con la que cuenta. Cerca de la isla se ha desarrollado un hábitat particular en el interior y en el casco exterior de una embarcación que se hundió hace dos siglos. Este impresionante ecosistema es visitado por los buceadores. Los tres subsistemas de arrecifes que integran la barrera son Bajos de Tuxpan, Bajos de en Medio y Bajos de Tanhuijo, y en todos hay cosas interesantes que ver"
+  },
+  {
+    "Lugar": "Xpu-Ha, Quintana Roo",
+    "Descripcion": "Esta franja playera de finas arenas blancas se encuentra a solo 20 minutos de Playa del Carmen, en la Riviera Maya. Es una playa ideal para toda la familia ya que a su poca profundidad, une un tenue oleaje, a veces casi imperceptible. Es ideal para la práctica de entretenimientos acuáticos, como snorkel, buceo y kayak. Muy cerca está el espectacular Cenote Manatá, conectado con una laguna que da al mar. Es posible que puedas avistar un manatí, un simpático mamáfero acuático también llamado vaca marina, una especie amenazada. La playa cuenta con varios hoteles y algunas cabañas que ofrecen un servicio personalizado a sus clientes en la playa."
+  },
+  {
+    "Lugar": "Bahía de Matanchen, Nayarit",
+    "Descripcion": "Esta ensenada está localizada en la ciudad nayarita de San Blas, frente a un fragoroso Pacífico que dota a sus playas de magníficas condiciones para surfear. En Matanchen es posible sentirse como un Pirata en el Pacífico ya que la zona fue utilizada durante la época virreinal como refugio de los bucaneros que patrullaban las aguas en busca de un cargamento valioso que saquear. La bahía es también centro de acopio de larvas de camarón. Los practicantes del nudismo no oficial aprovechan las playas de San Blas para quitarse la ropa por completo."
+  },
+  {
+    "Lugar": "Ajusco",
+    "Descripcion": "La Ciudad de México tiene este tesoro para los que buscan escaparse por una o dos noches del tráfico y las multitudes. Y si vacacionar en plan ¡turstico! no es lo tuyo, Orgánico Hotel Boutique te va a encantar. Se trata de cabañas que fueron acondicionadas por dentro con una decoración minimalista industrial. El paisaje es increíble y el servicio inigualable."
+  },
+  {
+    "Lugar": "Valle de bravo",
+    "Descripcion": "Valle de Bravo es un destino de descanso por excelencia. La paz que se repira entre sus árboles es incomparable y se disfruta aún más si te hospedas en el lugar correcto."
+  },
+  {
+    "Lugar": "Queretaro",
+    "Descripcion": "La Sierra Gorda de Querétaro ofrece muchos rincones para escaparnos. La Casa de los Cuatro Vientos, en especial, es una cabaña contemporánea estilo loft, donde puedes disfrutar del silencio y los impresionantes paisajes que esta región ofrece."
+  },
+  {
+    "Lugar": "Hidalgo",
+    "Descripcion": "Ubicado en Huasca de Ocampo, podemos encontrar al Hotel Huasca Sierra Verde, un espacio que ofrece diferentes alternativas para todo tipo de viajero. Cuenta con cabañas y glamping (camping con glamour), área de fogatas, albercas y restaurant-bar."
+  },
+  {
+    "Lugar": "Michoacán",
+    "Descripcion": "El estado que es hogar de uno de los bosques más bellos del país, también es el refugio de la exclusiva Quinta Los Azufres. Localizada en el pueblo homónimo, este resort de montañaa ofrece diferentes tipos de cabañas, todas con exclusivas amenidades."
+  },
+  {
+    "Lugar": "Jalisco",
+    "Descripcion": "Los bosques de Jalisco son el escenario perfecto para pasar un fin de semana cerca de la naturaleza. En el pueblo mágico Mazamitla podemos encontrar el Hotel Monteverde, que cuenta con cabañaas de todos tamaños y chalets. No importa que están en medio de miles de árboles, su interior ofrece todas las comodidades para pasarla increíble."
+  },
+  {
+    "Lugar": "Coahuila",
+    "Descripcion": "A lo largo de todo el estado podemos encontrar cualquier tipo rincones para disfrutar de un fin de semana, pero ninguno como el Monterreal Resort. Este espacio fue desarrollado para los amantes de esquí y el golf. Tiene una gran variedad de cabañas para parejas y grupos de todos tamaños. También ofrece actividades como cabalgatas, cuatrimotos, alberca, rapel, y canchas de tenis y basket."
+  },
+  {
+    "Lugar": "Veracruz",
+    "Descripcion": "Ubicado en Jalcomulco, México Verde es un campamento que ofrece tres tipos de casas de campaña, desde la más básica a la más equipada. Nuestra recomendación es la Suite por su agradable decoración que nos mantiene en contacto con la naturelza, aun con todas las comodidades. Lo más interesante de este lugar son todas las actividades ecoturísticas que ofrece, como gotcha, sandboard, rappel y tirolesa, entre muchas otras"
+  },
+  {
+    "Lugar": "CIUDAD DE MÉXICO",
+    "Descripcion": "Esta colosal ciudad capital alberga a más de veinticinco millones de personas y su enorme tamaño es asombroso de contemplar y explorar. A pesar de la interminable expansión, el fantástico sistema de metro pronto te tendrá disparando en un abrir y cerrar de ojos. Aunque la Ciudad de México todavía lucha contra la contaminación, en los últimos años se han hecho muchas mejoras."
+  },
+  {
+    "Lugar": "TIJUANA",
+    "Descripcion": "Tijuana, que se encuentra en la frontera con los Estados Unidos, es una ciudad fronteriza arenosa y llena de delincuencia donde puedes ahogarte en alcohol, festejar hasta el amanecer y posiblemente visitar su distrito de luz roja. Afirmando ser la frontera más cruzada de la tierra, la afluencia de visitantes disminuyó debido al aumento de la violencia de la guerra contra las drogas, aunque la mayoría de ellos han regresado a la bulliciosa ciudad, que ahora es mucho más segura. En los últimos años, se ha desarrollado una próspera escena artística y cultural, y hay muchos restaurantes de moda y galerías contemporáneas abiertas."
+  },
+  {
+    "Lugar": "Monterrey",
+    "Descripcion": "Monterrey es una ciudad industrial con una innumerable cantidad de actividades y en evolución constante. El Cerro de la Silla es uno de sus emblemas, en el que la foto es obligada, así como una visita a la Macroplaza, la Fuente de la Vida y su nuevo estadio de fútbol. Siendo la tierra del cabrito, el restaurante San Carlos es uno de sus mejores exponentes."
+  },
+  {
+    "Lugar": "Guadalajara",
+    "Descripcion": "La Perla Tapatía, una tierra que podría resumir todo lo que es México, uno de los destinos más interesantes para visitar. Moderna, vanguardista con centros comerciales de alto nivel y cuna de majares que han traspasados fronteras, como las tortas ahogadas y la carne en su jugo. Este último platillo lo encuentras en el mejor lugar Karnes Garibaldi, quienes sostienen el record Guinness al servicio más rápido. Guadalajara está rodeada de hermosos pueblos como Tequila, la cuna del Mariachi Cocúla, Chapala y su lago o Villa Corona."
+  },
+  {
+    "Lugar": "Querétaro",
+    "Descripcion": "Una pequeña ciudad con una cantidad menor de habitantes, acogedora e increíblemente colonial, reconocida por su tranquilidad y calma. Entre los must a visitar esta el Templo de Santa Rosa de Vierbo, admirar la Fuente de Neptuno y el impresionante Teatro de la República. Si tienes tiempo, no puede faltar una visita a la Ruta del Queso y Vino."
+  },
+  {
+    "Lugar": "Aguascalientes",
+    "Descripcion": "Conocida por sus fiestas y la feria más importante de México, la feria de San Marcos. Casonas de la época colonial, la Catedral, y el Templo de San Antonio. Esta hermosa ciudad está rodeada de pueblos mágicos que puedes recorrer durante tu estancia."
+  },
+  {
+    "Lugar": "Pátzcuaro",
+    "Descripcion": "Tierra purépecha, considerado pueblo mágico del estado de Michoacán. Las cornudas, es comida tópica para paladear, así como los uchepos y sopa tarasca, esto es algo de sus comidas clásicas. En chocolates Joaquinita, encontrarás deliciosas tabletas hechas a mano por una familia desde 1898."
+  },
+  {
+    "Lugar": "Bernal",
+    "Descripcion": "Villa colonial al este de Querétaro. El castillo y la capilla de ánimas son imperdibles. Para conocer más las oficinas de turismo ofrecen visitas guiadas. Enchiladas serranas, nopales santos, la barbacoa de borrego son deliciosos y las debes probar durante tu paso por este pueblo mágico. El equinoccio de primavera y la fiesta de la Santa Cruz son festividades tradicionales que en su momento tienes que vivirlas."
+  },
+  {
+    "Lugar": "Tequila",
+    "Descripcion": "Pueblo rodeado de la planta de dioses, el maguey. Con el cual se produce el mexicanísimo Tequila. Aquí los grandes exponentes de esta rasposa bebida cuentan con sus casas productoras. Ya sea por tu cuenta o en tour, el gran atractivo además de su plaza y mercados es un recorrido por Casa Cuervo, o cualquiera de sus fabricantes tequileros."
+  },
+  {
+    "Lugar": "San Miguel de Allende",
+    "Descripcion": "Nombrada Ciudad Patrimonio por la Unesco, San Miguel de Allende es un lugar lleno de tradición con su arquitectura colonial. Lo mejor es que puedes andar por la ciudad caminando, no necesitas de un carro para poder explorarla.  Vista la parroquia de San Miguel de Arcángel, el ex Palacio Municipal y el Templo de Nuestra Señora de la Salud, entre otras cosas. El descansar aquí es algo de ensueño, pues cuenta con hoteles boutique, pintorescos y bellamente decorados."
+  },
+  {
+    "Lugar": "San Cristóbal de las Casas",
+    "Descripcion": "Su pasado colonial y sus raíces indígenas hacen de San Cristóbal de las Casas un punto de partida ideal para conocer el estado de Chiapas. Prueba su delicioso café, su irresistible chocolate y todas las delicias gastronómicas que distinguen a este estado del sur de México. Si te hospedas en Sancris, como la llaman de cariño sus habitantes, podrás ir fácilmente a lugares como el cañón del Sumidero, las cascadas del Chiflon, los lagos de Montebello e incluso Palenque y Agua Azul, si tienes tiempo de hacerlo."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Lugar": "Isla Mujeres",
+    "Descripcion": "Hay quienes catalogan a esta playa como la más hermosa de México y no les falta razón. Ya de por sí, la isla que le sirve de asiento es una belleza situada a menos de 15 kilómetros de Cancún, rodeada por el embrujo de su origen. Cuenta la leyenda que cuando los españoles llegaron al lugar encontraron tantas figuras femeninas, que lo bautizaron como Isla Mujeres."
+  },
+  {
+    "Lugar": "Playa del amor, Baja California Sur",
+    "Descripcion": "En la punta austral de la península de Baja California, las aguas del Pacífico inmenso y del Mar de Cortés se miran en Cabo San Lucas como dos enamorados que se evaden. Quizá por eso, la Playa de los Enamorados es la más apreciada por los amantes de esta ciudad sudcaliforniana.  Es un lugar hermoso en el que el mar es como un retrato azul entre las enormes rocas de caliza que hacen de marco. Su peculiar formación llamada El Arco fue esculpida por el viento y el oleaje. Entre los meses de diciembre y marzo es posible ver ballenas y ballenatos."
+  },
+  {
+    "Lugar": "Bahis organo y Maguey, Oaxaca",
+    "Descripcion": "Estas dos playas de Huatulco están tan cerca, que pueden disfrutarse en una sola jornada. Son dos pequeñas y fraternales ensenadas, con sus coincidencias y diferencias. Las dos son de nítidas aguas y de blanca arena, pero Playa Maguey es de fácil acceso, mientras que llegar a Organo es más difícil"
+  },
+  {
+    "Lugar": "Playa paraíso, Cozumel, Quintana Roo",
+    "Descripcion": "Cozumel es la segunda isla más poblada de México, contando con todas las facilidades necesarias para un turismo de primer nivel, incluyendo aeropuerto internacional"
+  },
+  {
+    "Lugar": "Islas Revillagigedo, Colima",
+    "Descripcion": "Estas islas colimeñas en el Pacífico,llamadas las Galápagos Mexicanas, constituyen un exclusivo destino, especialmente para los ecoturistas y para los amantes del buceo en territorios casi vírgenes. Por su riqueza biológica, constituyen área Natural Protegida y Reserva de Biósfera."
+  },
+  {
+    "Lugar": "Punta Nizuc, Quintana roo",
+    "Descripcion": "Esta punta geográfica es uno de los lugares más frecuentados de Cancún, principalmente por sus magníficos arrecifes coralinos, que constituyen un nirvana para los buceadores y un excelente lugar para observar la biodiversidad marina."
+  },
+  {
+    "Lugar": "Mazunte, Oaxaca",
+    "Descripcion": "El mazunte es un cangrejo azul que vive un este lugar oaxaqueño, pero la especie más mimada de este Pueblo Mágico mexicano es la tortuga. Mazunte es la sede principal del Centro Mexicano de la Tortuga, lugar desde el que se desarrolla un admirable trabajo para preservar las especies de quelonios del Pacífico."
+  },
+  {
+    "Lugar": "Isla de los lobos, Veracruz",
+    "Descripcion": "A 75 minutos de la costa continental veracruzana está esta fantástica isla, de playas cristalinas ideales para el buceo, por la barrera de arrecifes coralinos con la que cuenta. Cerca de la isla se ha desarrollado un hábitat particular en el interior y en el casco exterior de una embarcación que se hundió hace dos siglos. Este impresionante ecosistema es visitado por los buceadores. Los tres subsistemas de arrecifes que integran la barrera son Bajos de Tuxpan, Bajos de en Medio y Bajos de Tanhuijo, y en todos hay cosas interesantes que ver"
+  },
+  {
+    "Lugar": "Xpu-Ha, Quintana Roo",
+    "Descripcion": "Esta franja playera de finas arenas blancas se encuentra a solo 20 minutos de Playa del Carmen, en la Riviera Maya. Es una playa ideal para toda la familia ya que a su poca profundidad, une un tenue oleaje, a veces casi imperceptible. Es ideal para la práctica de entretenimientos acuáticos, como snorkel, buceo y kayak. Muy cerca está el espectacular Cenote Manatá, conectado con una laguna que da al mar. Es posible que puedas avistar un manatí, un simpático mamáfero acuático también llamado vaca marina, una especie amenazada. La playa cuenta con varios hoteles y algunas cabañas que ofrecen un servicio personalizado a sus clientes en la playa."
+  },
+  {
+    "Lugar": "Bahía de Matanchen, Nayarit",
+    "Descripcion": "Esta ensenada está localizada en la ciudad nayarita de San Blas, frente a un fragoroso Pacífico que dota a sus playas de magníficas condiciones para surfear. En Matanchen es posible sentirse como un Pirata en el Pacífico ya que la zona fue utilizada durante la época virreinal como refugio de los bucaneros que patrullaban las aguas en busca de un cargamento valioso que saquear. La bahía es también centro de acopio de larvas de camarón. Los practicantes del nudismo no oficial aprovechan las playas de San Blas para quitarse la ropa por completo."
+  }
+]

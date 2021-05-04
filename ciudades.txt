@@ -1,0 +1,26 @@
+[
+  {
+    "Lugar": "CIUDAD DE MÉXICO",
+    "Descripcion": "Esta colosal ciudad capital alberga a más de veinticinco millones de personas y su enorme tamaño es asombroso de contemplar y explorar. A pesar de la interminable expansión, el fantástico sistema de metro pronto te tendrá disparando en un abrir y cerrar de ojos. Aunque la Ciudad de México todavía lucha contra la contaminación, en los últimos años se han hecho muchas mejoras."
+  },
+  {
+    "Lugar": "TIJUANA",
+    "Descripcion": "Tijuana, que se encuentra en la frontera con los Estados Unidos, es una ciudad fronteriza arenosa y llena de delincuencia donde puedes ahogarte en alcohol, festejar hasta el amanecer y posiblemente visitar su distrito de luz roja. Afirmando ser la frontera más cruzada de la tierra, la afluencia de visitantes disminuyó debido al aumento de la violencia de la guerra contra las drogas, aunque la mayoría de ellos han regresado a la bulliciosa ciudad, que ahora es mucho más segura. En los últimos años, se ha desarrollado una próspera escena artística y cultural, y hay muchos restaurantes de moda y galerías contemporáneas abiertas."
+  },
+  {
+    "Lugar": "Monterrey",
+    "Descripcion": "Monterrey es una ciudad industrial con una innumerable cantidad de actividades y en evolución constante. El Cerro de la Silla es uno de sus emblemas, en el que la foto es obligada, así como una visita a la Macroplaza, la Fuente de la Vida y su nuevo estadio de fútbol. Siendo la tierra del cabrito, el restaurante San Carlos es uno de sus mejores exponentes."
+  },
+  {
+    "Lugar": "Guadalajara",
+    "Descripcion": "La Perla Tapatía, una tierra que podría resumir todo lo que es México, uno de los destinos más interesantes para visitar. Moderna, vanguardista con centros comerciales de alto nivel y cuna de majares que han traspasados fronteras, como las tortas ahogadas y la carne en su jugo. Este último platillo lo encuentras en el mejor lugar Karnes Garibaldi, quienes sostienen el record Guinness al servicio más rápido. Guadalajara está rodeada de hermosos pueblos como Tequila, la cuna del Mariachi Cocúla, Chapala y su lago o Villa Corona."
+  },
+  {
+    "Lugar": "Querétaro",
+    "Descripcion": "Una pequeña ciudad con una cantidad menor de habitantes, acogedora e increíblemente colonial, reconocida por su tranquilidad y calma. Entre los must a visitar esta el Templo de Santa Rosa de Vierbo, admirar la Fuente de Neptuno y el impresionante Teatro de la República. Si tienes tiempo, no puede faltar una visita a la Ruta del Queso y Vino."
+  },
+  {
+    "Lugar": "Aguascalientes",
+    "Descripcion": "Conocida por sus fiestas y la feria más importante de México, la feria de San Marcos. Casonas de la época colonial, la Catedral, y el Templo de San Antonio. Esta hermosa ciudad está rodeada de pueblos mágicos que puedes recorrer durante tu estancia."
+  }
+]
